@@ -1,0 +1,20 @@
+{
+  "name": "tasky-project",
+  "version": "1.0.0",
+  "description": "A simple JavaScript task manager app",
+  "main": "server.js",
+  "scripts": {
+    "start": "live-server",
+    "dev": "nodemon server.js"
+  },
+  "author": "Abhishek Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
